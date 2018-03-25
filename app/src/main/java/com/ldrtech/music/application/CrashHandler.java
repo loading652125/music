@@ -1,9 +1,10 @@
-package com.ldrtech.music.utils;
+package com.ldrtech.music.application;
 
 import android.os.Build;
 import android.util.Log;
 
 import com.ldrtech.music.BuildConfig;
+import com.ldrtech.music.utils.FileUtils;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
