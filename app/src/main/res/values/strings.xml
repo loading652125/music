@@ -42,7 +42,7 @@
     <string name="search_empty">未找到相关结果</string>
     <string name="menu_setting">功能设置</string>
     <string name="menu_share">推荐给朋友</string>
-    <string name="menu_about">关于波尼音乐</string>
+    <string name="menu_about">关于音乐</string>
     <string name="menu_night">夜间模式</string>
     <string name="menu_timer">定时停止播放</string>
     <string name="menu_exit">退出应用</string>
@@ -61,12 +61,10 @@
     <string name="weather_wind">%1$s风%2$s级&#160;&#160;湿度%3$s%%</string>
     <string name="timer_set">设置成功，将于%s分钟后关闭</string>
     <string name="timer_cancel">定时停止播放已取消</string>
-    <string name="share_app">青春，狂热，放纵，自由，当我们带上耳机以后做回自己，这是音乐的魅力。%s：http://fir.im/ponymusic</string>
+    <string name="share_app">音乐的魅力。%s：https://github.com/loading652125</string>
     <string name="copyright">Copyright © 2015&#045;%d SWUST</string>
-    <string name="about_project_url">https://github.com/wangchenyan/PonyMusic</string>
-    <string name="about_weibo">http://weibo.com/wangchenyan1993</string>
-    <string name="about_jianshu">http://www.jianshu.com/users/3231579893ac</string>
-    <string name="about_github">https://github.com/wangchenyan</string>
+    <string name="about_project_url">https://github.com/loading652125</string>
+    <string name="about_github">https://github.com/loading652125</string>
     <string name="music_info">歌曲信息</string>
     <string name="no_permission_location">没有位置信息权限，无法更新天气！</string>
     <string name="no_permission_storage">没有存储空间权限，无法扫描本地歌曲！</string>
